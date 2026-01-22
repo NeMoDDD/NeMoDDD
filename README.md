@@ -9,18 +9,25 @@ I'm a motivated Frontend Developer with hands-on experience in building modern w
 Currently, I am preparing for an IT Ausbildung as a **Fachinformatiker für Anwendungsentwicklung** in Germany.</div>  
   
 
-- 👨‍💻 Занимаюсь Frontend разработкой
+About Me
+- 💻 Frontend Developer with practical project experience
+- 📚 Strong interest in software development and modern web technologies
+- 🌱 Always learning and improving my skills
+- 🤝 Enjoy working in a team and sharing knowledge
+- 🎯 Goal: Start an IT Ausbildung and grow as a software developer
   
+Experience
+- Developed responsive and cross-browser web applications
+- Built React projects from scratch
+- Worked with APIs and Firebase
+- Refactored and optimized existing code
+- Participated in team-based and Agile-style development
 
-- ✅ Участвовал в разработке коммерческого сайта на React + Wordpress.  
- ✅ Разрабатывал лендинг с тестом выбора направления It для ItAcademy на React  
-  
+Learning & Activities
+- Completed a Frontend Developer course with excellent results
+- Participated in IT events and hackathons
+- Constantly improving my programming and problem-solving skills
 
-- 👨‍🏫 В данный момент изучаю TS, NextJS  
-  
-
-- ⚡ Хочу дальше развиваться в этом направлении и совершенствоваться  
-  
 
 <br/>  
 
