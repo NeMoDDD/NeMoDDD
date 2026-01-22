@@ -3,7 +3,10 @@
 </div>  
   
 
-### <div align="center">Привет, меня зовут Белек. Занимаюсь веб-разработкой с помощью React/Redux</div>  
+### <div align="center">Hi, I'm Belek 👋
+
+I'm a motivated Frontend Developer with hands-on experience in building modern web applications.  
+Currently, I am preparing for an IT Ausbildung as a **Fachinformatiker für Anwendungsentwicklung** in Germany.</div>  
   
 
 - 👨‍💻 Занимаюсь Frontend разработкой
